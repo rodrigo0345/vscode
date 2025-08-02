@@ -1,0 +1,72 @@
+{
+      "workbench.colorTheme": "Vitesse Dark One Dark Soft",
+      "workbench.iconTheme": "material-icon-theme",
+      "workbench.editor.showTabs": "multiple",
+      "workbench.statusBar.visible": true,
+      "workbench.startupEditor": "none",
+      "workbench.tips.enabled": false,
+      "editor.minimap.enabled": false,
+      "editor.cursorSurroundingLines": 12,
+      "breadcrumbs.enabled": false,
+      "workbench.sideBar.location": "left",
+      "material-icon-theme.hidesExplorerArrows": true,
+      "workbench.tree.enableStickyScroll": false,
+      "workbench.tree.renderIndentGuides": "none",
+      "workbench.tree.indent": 12,
+      "explorer.compactFolders": false,
+      "window.zoomLevel": 2,
+      "window.customTitleBarVisibility": "never",
+      "custom-ui-style.electron": {
+            "titleBarStyle": "hiddenInset",
+            "trafficLightPosition": {
+                  "x": 10,
+                  "y": 10
+            }
+      },
+      "editor.multiCursorModifier": "ctrlCmd",
+      "editor.cursorBlinking": "solid",
+      "editor.cursorStyle": "block",
+      "editor.fontLigatures": true,
+      "editor.fontSize": 14,
+      "editor.lineHeight": 1.8,
+      "editor.tokenColorCustomizations": {
+            "textMateRules": [
+                  {
+                        "scope": "comment",
+                        "settings": {
+                              "fontStyle": "italic"
+                        }
+                  }
+            ]
+      },
+      "editor.stickyScroll.enabled": false,
+      "editor.colorDecorators": false,
+      "editor.codeLens": false,
+      "editor.matchBrackets": "never",
+      "files.trimTrailingWhitespace": true,
+      "files.insertFinalNewline": true,
+      "scm.diffDecorations": "none",
+      "editor.detectIndentation": false,
+      "editor.showFoldingControls": "never",
+      "editor.guides.indentation": false,
+      "editor.renderLineHighlight": "gutter",
+      "editor.occurrencesHighlight": "off",
+      "extensions.experimental.affinity": {
+            "asvetliakov.vscode-neovim": 1
+      },
+      "editor.smoothScrolling": true,
+      "explorer.confirmDelete": false,
+      "editor.fontFamily": "'Jetbrains mono semibold', 'monospace', monospace",
+      "python.createEnvironment.contentButton": "show",
+      "editor.wordWrap": "on",
+      "editor.tabSize": 6,
+      "editor.accessibilitySupport": "off",
+      "editor.defaultFormatter": "ms-python.black-formatter",
+      "editor.lineNumbers": "relative",
+      "notebook.lineNumbers": "on",
+      "window.menuBarVisibility": "compact",
+      "[jsonc]": {
+            "editor.defaultFormatter": "vscode.json-language-features"
+      },
+      "security.workspace.trust.untrustedFiles": "open"
+}
